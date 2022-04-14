@@ -1,0 +1,16 @@
+body
+{
+    background-color: cyan;
+}
+
+.name_of_objects
+{
+    font-size: 20px;
+    font-style: italic;
+    color:darkgreen;
+}
+#webcam
+{
+    font-size: 10px;
+    font-weight: bold;
+}
